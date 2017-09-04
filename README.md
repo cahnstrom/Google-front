@@ -1,4 +1,16 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+  <title>Google</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+  <h1>Write your code here...</h1>
+</body>
+
+</html>
 
 You can use the [editor on GitHub](https://github.com/cahnstrom/Google-front/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
